@@ -1,0 +1,13 @@
+
+
+body {
+	font-family: 'Lekton', monospace;
+}
+
+body {
+	margin: 0;  padding: 0;
+}
+
+div#content {
+	margin: 1.5em 3em;
+}
